@@ -1,4 +1,4 @@
-# neo4j-ibhk-gene-regulation
+# neo4j-ibkh-gene-regulation
 
 Agentic semantic layer for iBKH data — Claude Desktop + Neo4j MCP for natural-language Cypher generation against the integrative Biomedical Knowledge Hub.
 
